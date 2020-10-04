@@ -293,7 +293,7 @@ class _ProductScreenBottomPartState extends State<ProductScreenBottomPart> {
                 Padding(
                   padding: const EdgeInsets.all(12.0),
                   child: Container(
-                    width: screenAwareSize(100.0, context),
+                    width: screenAwareSize(99.0, context),
                     height: screenAwareSize(30.0, context),
                     decoration: BoxDecoration(
                         color: Color(0xFF525663),

@@ -1,4 +1,4 @@
-package com.example.adidas_shoes_ecommerce_app_ui;
+package com.ziris.shoes;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
